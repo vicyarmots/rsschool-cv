@@ -12,6 +12,8 @@ More or less understanding of the language went only after a month of self-study
 
 4) Mostly I was working with HTML/CSS and JavaScript.
 5) https://github.com/vicyarmots/axit
-8) English Level : Upper-Intermediate(B2) 
+8) English Level : Upper-Intermediate(B2)
+   Education at school ( 8 years )
+   Attending different type of courses
   
 
