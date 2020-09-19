@@ -2,7 +2,7 @@
 
 1) <h1>Victor Yarmots</h2>
 2)  EMAIL victoryarmotspand@gmail.com
-    
+    <br>PHONE +375333744019
 3) Since high school I have been immersed in the study of programming languages, especially web development and design.
 Initially, I wanted to follow the path of a designer,
 but I felt that I was getting more programming and I was more interested in this foundation. From the very beginning, like everything I did,
